@@ -3,7 +3,7 @@ Hi ,
 <<<<<<< HEAD
 This is my name and I am Kumar.
 
-This is Amazing 
+This is Amazing  Chhhotan
 =======
 
 This is my name and this is Chhotan.
