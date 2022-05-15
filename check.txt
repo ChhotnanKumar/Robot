@@ -1,12 +1,7 @@
 Hi , 
-
-<<<<<<< HEAD
 This is my name and I am Kumar.
-
 This is Amazing  Chhhotan
-=======
-
 This is my name and this is Chhotan.
 My name is khan
+Here I am.
 
->>>>>>> 2624526e14173ab572599bb870e8d162a4f7dc9c
